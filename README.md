@@ -128,5 +128,6 @@ Carlo prints an error message when Chrome can not be located.
 
 Chrome Stable channel, versions 70.* are supported.
 
+SSSSSSSSSSSSS
 
 <!-- [END faq] -->
